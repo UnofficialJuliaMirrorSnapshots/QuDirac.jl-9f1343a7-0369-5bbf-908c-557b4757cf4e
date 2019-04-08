@@ -1,0 +1,15 @@
+site_name: QuDirac.jl
+repo_url: https://github.com/JuliaQuantum/QuDirac.jl
+site_author: Jarrett Revels
+theme: readthedocs
+pages:
+- Introduction: index.md
+- User Guide:
+  - Constructing Single States: constructing_states.md
+  - d" ... " literals: d_str.md
+  - Math with States: state_math.md
+  - Math with Operators: op_math.md
+  - Labels and Coefficients: labels_and_coeffs.md
+  - Constructing Operators with Functions: func_op_def.md
+  - Working with Inner Products: inner_products.md
+  - API: api.md
